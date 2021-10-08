@@ -917,9 +917,11 @@ footer {
   }
 
   .form h3 {
+    grid-area: h;
   }
 
   .form p.formIntro {
+    grid-area: p;
   }
 
   .social article {
