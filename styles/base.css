@@ -870,6 +870,7 @@ footer {
 
   /* ######### 10a-viii. Footer, Large screen rules ######### */
   footer {
+    display: grid;
   }
 
   .contact {
