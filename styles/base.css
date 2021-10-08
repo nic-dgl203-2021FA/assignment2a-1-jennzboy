@@ -423,6 +423,7 @@ nav .btn:hover {
 
 .teamMembers li:nth-child(3) {
   grid-column: 4 / 8;
+  order: 1;
 }
 
 .teamMembers li:nth-child(4) {
