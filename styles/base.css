@@ -344,6 +344,7 @@ nav .btn:hover {
   height: 2rem;
   margin-top: 1rem;
   text-decoration: none;
+  display: flex;
 }
 
 .trips a:hover {
