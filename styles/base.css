@@ -653,6 +653,7 @@ footer {
   }
 
   nav ul {
+    display: flex;
   }
 
   nav ul li a {
