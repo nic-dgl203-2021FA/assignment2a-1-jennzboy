@@ -890,6 +890,7 @@ footer {
     grid-template-columns: 1fr, .5fr;
     align-items: center;
     display: flex;
+    flex-direction: column;
   }
 
   .socialIcons {
