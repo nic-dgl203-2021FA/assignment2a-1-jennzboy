@@ -889,6 +889,7 @@ footer {
     display: grid;
     grid-template-columns: 1fr, .5fr;
     align-items: center;
+    display: flex;
   }
 
   .socialIcons {
