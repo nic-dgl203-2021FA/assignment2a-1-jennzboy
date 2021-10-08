@@ -324,6 +324,7 @@ nav .btn:hover {
 .tripList h3,
 .tripList img {
   grid-row: 1 / 2;
+  grid-column: 1;
 }
 
 .tripList h3 {
