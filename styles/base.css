@@ -914,6 +914,7 @@ footer {
   .form {
     display: grid;
     grid-template-columns: auto minmax(min-content, 580px);
+    grid-template-areas: ". h" ". p";
   }
 
   .form h3 {
