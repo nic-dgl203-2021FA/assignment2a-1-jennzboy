@@ -507,6 +507,7 @@ section.problem {
   border-radius: 6px;
   list-style-type: none;
   margin: 1rem auto;
+  display: grid;
 }
 
 .action li h1 {
