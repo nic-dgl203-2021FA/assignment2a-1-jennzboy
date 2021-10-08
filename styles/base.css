@@ -839,6 +839,7 @@ footer {
 
   .action article {
     margin-bottom: 1rem;
+    display: grid;
   }
 
   .action article h1 {
